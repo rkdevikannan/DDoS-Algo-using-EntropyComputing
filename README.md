@@ -1,1 +1,1 @@
-# DDoS-Algo-using-EntropyComputing
+# Detect_DDoS-Attack-using-EntropyComputing
