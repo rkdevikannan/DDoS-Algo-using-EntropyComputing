@@ -10,4 +10,4 @@ Entropy detection algorithm has been implemented in 8 GB Laptop with installed W
 and Ubuntu 14.04 (64-bit) virtual machine were installed in Virtual Box with 5000 MB base memory; and 
 a package of Mininet was installed in this virtual machine as the emulation tool. Mininet is a network 
 emulator.The controller in which the algorithm was run is POX; POX is an open source controller written in python 
-programming language 
+programming language.
